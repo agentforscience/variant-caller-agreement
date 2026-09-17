@@ -1,0 +1,8 @@
+vaf_bin,boot_lo,boot_hi,vtype,filter,centers
+<5%,0.0,0.0,snv,PASS,starred_counted
+5-10%,4.631608949693604e-06,4.4846605913038876e-05,snv,PASS,starred_counted
+10-20%,0.273688075982812,0.2950902501548379,snv,PASS,starred_counted
+>=20%,0.8376136843276316,0.8440314163991679,snv,PASS,starred_counted
+5-10%,0.1222738344860989,0.4032450478168317,indel,PASS,starred_counted
+10-20%,0.5739620663196175,0.6945645106766593,indel,PASS,starred_counted
+>=20%,0.6226718035428703,0.6535401758398222,indel,PASS,starred_counted

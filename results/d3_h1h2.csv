@@ -1,0 +1,9 @@
+vtype,hypothesis,vaf_bin,threshold,n,all_agree,lo,hi,p_one_sided,supported,p_holm,supported_holm,filter,centers
+indel,H1,>=20%,0.8,102142,0.6384249378316461,0.63547332607366,0.6413661379333015,1.0,False,1.0,False,PASS,starred_counted
+indel,H2,<5%,0.5,0,,,,,False,,False,PASS,starred_counted
+snv,H1,>=20%,0.8,1938652,0.8405835601232197,0.8400675912335626,0.8410981792759166,0.0,True,0.0,True,PASS,starred_counted
+snv,H2,<5%,0.5,28396,0.0,0.0,0.0001352633896306843,0.0,True,0.0,True,PASS,starred_counted
+indel,H1,>=20%,0.8,102142,0.0,0.0,3.760758897113574e-05,1.0,False,1.0,False,PASS,strict
+indel,H2,<5%,0.5,0,,,,,False,,False,PASS,strict
+snv,H1,>=20%,0.8,1938652,0.8405835601232197,0.8400675912335626,0.8410981792759166,0.0,True,0.0,True,PASS,strict
+snv,H2,<5%,0.5,28396,0.0,0.0,0.0001352633896306843,0.0,True,0.0,True,PASS,strict

@@ -1,0 +1,9 @@
+filter,centers,vtype,samples_with_calls,samples_all_callers_active,variants,frac_zero_callers,frac_one_caller
+PASS,starred_counted,snv,10294,10074,2756783,0.0,1.8137082244050402e-06
+all,starred_counted,snv,10294,10074,3422928,0.0,2.337180332160069e-06
+PASS,starred_counted,indel,9123,8630,146573,0.0,0.00369099356634578
+all,starred_counted,indel,9123,8630,172470,0.0,0.004041282541891344
+PASS,strict,snv,10294,10074,2756783,0.0,1.8137082244050402e-06
+all,strict,snv,10294,10074,3422928,0.0,2.337180332160069e-06
+PASS,strict,indel,9123,8630,146573,0.0,0.7670921656785357
+all,strict,indel,9123,8630,172470,0.0,0.7629152896155853

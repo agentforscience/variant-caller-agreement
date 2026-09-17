@@ -1,0 +1,8 @@
+vaf_bin,median,mean,size,vtype,filter,centers
+<5%,0.0,0.0,598,snv,PASS,starred_counted
+5-10%,0.0,2.545622325107791e-05,3577,snv,PASS,starred_counted
+10-20%,0.3,0.3000027183067924,5597,snv,PASS,starred_counted
+>=20%,0.8444444444444444,0.8311580894847783,7686,snv,PASS,starred_counted
+5-10%,0.4166666666666667,0.4038648549124422,84,indel,PASS,starred_counted
+10-20%,0.6910994764397905,0.6746181384311438,429,indel,PASS,starred_counted
+>=20%,0.75,0.7374498806820523,977,indel,PASS,starred_counted
